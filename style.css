@@ -1,0 +1,159 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#maindiv{
+    width: 100%;
+    height: 622px;
+}
+#navbar2{
+    height: 40px;
+    background-color: #fa2077;
+    margin-top: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+#navbar{
+    height: 40px;
+    margin-top: 5px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+.new{
+    margin-right: 125px;
+    text-decoration: none;
+    color:black;
+}
+#firstpic{
+    width: 100%;
+    height: 622px;
+    background-image: url(lava.jpg);
+    background-size: cover;
+}
+.font1{
+    color: #ffffff;
+    margin-left: 910px;
+    text-decoration: none; 
+}
+.font2{
+    color: #ffffff;
+    text-decoration: none;
+}
+#div1{
+    width: 740px;
+    height: 612px;
+    background-image: url(https://www.lavamobiles.com/images/card-smartphones.jpg);
+    float: left;
+    background-repeat: no-repeat;
+    background-size:contain;
+    margin: 1px;
+    background-color:black;
+}
+#div2{
+    width: 720px;
+    height: 320px;
+    float: left;
+    background-color: #000;
+    background-image: url(lava3.jpg);
+    background-repeat: no-repeat;
+    background-size:contain;
+    margin: 1px;
+}
+#div3{
+    width: 354px;
+    height: 290px;
+    float: left;
+    background-image: url(https://www.lavamobiles.com/images/card-laptop.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-color:black;
+    margin: 1px;
+}
+#div4{
+    width: 352px;
+    height: 290px;
+    float: left;
+    background-image: url(https://www.lavamobiles.com/images/card-accessories.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin: 1px;
+}
+#prodcat{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 1444px;
+    height: 60px;
+    text-align: center;
+    font-weight:lighter;
+    color: rgb(30, 25, 25);
+}
+#d1{
+    width: 1430px;
+    height: 400px;
+    background-color:white;
+    color: gray;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#d2{
+    width: 250px;
+    height: 396px;
+    background-color: white;
+    float: left;
+    margin: 2px;
+}
+#d3{
+    width: 130px;
+    height: 190px;
+    background-color: white;
+    float: left;
+    margin: 2px;
+}
+#d4{
+    width: 150px;
+    height: 190px;
+    background-color:white;
+    float: left;
+    margin: 2px;
+}
+#d5{
+    width: 180px;
+    height: 190px;
+    background-color: white;
+    float: left;
+    margin: 2px;
+}
+#d6{
+    width: 130px;
+    height: 190px;
+    background-color:white;
+    float: left;
+    margin: 2px;
+}
+#d7{
+    width: 150px;
+    height: 190px;
+    background-color:white;
+    float: left;
+    margin: 2px;
+}
+#d8{
+    width: 155px;
+    height: 190px;
+    background-image: url(insta.png);
+    background-repeat: no-repeat;
+    float: left;
+    margin: 2px;
+}
+#d9{
+    width: 250px;
+    height: 190px;
+    background-color:white;
+    float: left;
+    margin: 2px;
+}
+#d10{
+    width: 916px;
+    height: 200px;
+    background-color: white;
+    float:left;
+    margin: 2px;
+}
